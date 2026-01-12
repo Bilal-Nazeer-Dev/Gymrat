@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760906534976",
+    "project_id": "gymrat-fitness",
+    "storage_bucket": "gymrat-fitness.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760906534976:android:565fd27569200693b58fa5",
+        "android_client_info": {
+          "package_name": "com.example.gymrat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTMwGyI2UQFNwoOZ4iZdxMcnTAVDHWecw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gym_primary">#FF5722</color> <color name="gym_secondary">#212121</color> <color name="gym_background">#121212</color> <color name="gym_accent">#00E676</color> <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+
+
+    <color name="img_placeholder_1">#263238</color>
+    <color name="img_placeholder_2">#3E2723</color>
+    <color name="img_placeholder_3">#212121</color>
+    <color name="overlay_dark">#99000000</color>
+</resources>
