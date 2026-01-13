@@ -10,7 +10,7 @@
 
 | **Login & Auth** | **Home Dashboard** | **AI Coach** |
 |:---:|:---:|:---:|
-| <img src="screenshots/login.jpeg" width="220" alt="Login Screen"/> | <img src="screenshots/home.jpeg" width="220" alt="Home Dashboard"/> | <img src="screenshots/chat.jpeg" width="220" alt="AI Chat Interface"/> |
+| <img src="screenshots/login.jpeg" width="220" alt="Login Screen"/> | <img src="screenshots/home .jpeg" width="220" alt="Home Dashboard"/> | <img src="screenshots/chat.jpeg" width="220" alt="AI Chat Interface"/> |
 | *Secure Firebase Authentication* | *Central hub with Streak & Navigation* | *Real-time fitness advice via Gemini AI* |
 
 | **Workout Plans** | **Daily Attendance** | **Profile & Settings** |
